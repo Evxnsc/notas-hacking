@@ -378,9 +378,129 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9ad6595821dae49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebc56111504feee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASCII NUMBERS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b50145c2b17c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a7f3480e455930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chrono.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dc370e5f2a1fbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "permissions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d494e7cc72fc4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plumbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cf0109c69984546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pw crack 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc8be1b6efaaa95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "serpentine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81caa0d7c8fc1f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04b69f99bfc931c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "useless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -446,7 +566,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What's A Net Cat.md",
+                "file": "useless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +583,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What's A Net Cat.md",
+                "file": "useless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,7 +606,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What's A Net Cat.md"
+                "file": "useless.md"
               }
             }
           }
@@ -507,9 +627,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bd55922ec5c6f48",
+  "active": "04b69f99bfc931c2",
   "lastOpenFiles": [
     "Plantilla.md",
+    "useless.md",
+    "Special.md",
+    "serpentine.md",
+    "pw crack 3.md",
+    "Plumbing.md",
+    "permissions.md",
+    "chrono.md",
+    "Based.md",
+    "ASCII NUMBERS.md",
+    "Lets Warm Up.md",
+    "nice netcat.md",
     "What's A Net Cat.md",
     "wave a flag.md",
     "warmed up.md",
@@ -518,23 +649,12 @@
     "Static Ain't Always Noise.md",
     "obendient cat.md",
     "repetitions.md",
-    "nice netcat.md",
     "First Grep.md",
     "Bases.md",
     "2Warm.md",
     "Untitled 1.md",
     "Glitch Cat.md",
     "Commitment Issues.md",
-    "Magikarp ground mission.md",
-    "Tab, Tab, Attack.md",
-    "runme.py.md",
-    "PW Crack 2.md",
-    "PW Crack 1.md",
-    "fixme2.py.md",
-    "fixme1.py.md",
-    "Convertme.py.md",
-    "Time Machine.md",
-    "Codebook.md",
     "instalacionKali.pdf"
   ]
 }
