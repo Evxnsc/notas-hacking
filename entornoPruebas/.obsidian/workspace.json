@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d73ec80e7d67cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web parte uno/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "331144e20d29fa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web parte uno/Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1cd3ce13632c845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web parte uno/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web parte uno/where are the robots.md",
+                "file": "Web parte uno/picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web parte uno/where are the robots.md",
+                "file": "Web parte uno/picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web parte uno/where are the robots.md"
+                "file": "Web parte uno/picobrowser.md"
               }
             }
           }
@@ -173,9 +209,13 @@
   },
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
+    "Web parte uno/Client-side-again.md",
+    "Web parte uno/picobrowser.md",
+    "Web parte uno/Plantilla.md",
+    "Web parte uno/dont-use-client-side.md",
+    "Web parte uno/where are the robots.md",
     "Web parte uno/logon.md",
     "Web parte uno/insp3ct0r.md",
-    "Web parte uno/where are the robots.md",
     "picoCTF/ASCII NUMBERS.md",
     "picoCTF/Big Zip.md",
     "picoCTF/chrono.md",
@@ -195,10 +235,6 @@
     "picoCTF/wave a flag.md",
     "picoCTF/runme.py.md",
     "picoCTF/First Grep.md",
-    "picoCTF/PW Crack 2.md",
-    "picoCTF/Glitch Cat.md",
-    "picoCTF/Magikarp ground mission.md",
-    "picoCTF/First Find.md",
     "Web parte uno",
     "picoCTF",
     "picoCTF/instalacionKali.pdf"
