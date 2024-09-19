@@ -4,503 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ede5cca0dacd6af6",
+        "id": "d33730a0de3bd5b9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f78f6490f7694e8",
+            "id": "19176242947774b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Zip.md",
+                "file": "Web parte uno/insp3ct0r.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c76043dd00fad30",
+            "id": "29b580fa93419845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Zip.md",
+                "file": "where are the robots.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abea27beab95a824",
+            "id": "a3f0b900f05ee08d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Zip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8959baced11ff265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blame Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a519d8ed0e58270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binhexa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b8c12a2b24f30c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collaborative Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d220b04f9f16dc83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commitment Issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d3f8cdfc518e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748bb0f1cb152c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repetitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcc46da4e954e74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Super SSH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6dac4d658a8cb1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Machine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79e085433ce51687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codebook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad0def0320d3608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Convertme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86a2fa64882a0c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fixme1.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36e6b2a3ebb7e0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fixme2.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14cca9da65857f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e336748b9f1089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magikarp ground mission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "410e38095cdb7de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf8e5edce56e29b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PW Crack 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86227578eb86d119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "runme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "269124f79d511401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "runme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f663d904abc88a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc53dcaf96ee57e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf1acc390395467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a0195b1746477a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nice netcat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7363926b8d5afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obendient cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae1e386b39ede44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8fdd9f6520e3442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16f14c95e6e8a4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "warmed up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d34b11fb546ba11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wave a flag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bd55922ec5c6f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What's A Net Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ad6595821dae49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lets Warm Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ebc56111504feee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASCII NUMBERS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0b50145c2b17c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Based.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a7f3480e455930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chrono.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dc370e5f2a1fbfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "permissions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d494e7cc72fc4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plumbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cf0109c69984546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pw crack 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc8be1b6efaaa95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "serpentine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81caa0d7c8fc1f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04b69f99bfc931c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "useless.md",
+                "file": "logon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 40
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -566,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useless.md",
+                "file": "logon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -583,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useless.md",
+                "file": "logon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -606,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useless.md"
+                "file": "logon.md"
               }
             }
           }
@@ -627,34 +171,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04b69f99bfc931c2",
+  "active": "a3f0b900f05ee08d",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "useless.md",
-    "Special.md",
-    "serpentine.md",
-    "pw crack 3.md",
-    "Plumbing.md",
-    "permissions.md",
-    "chrono.md",
-    "Based.md",
-    "ASCII NUMBERS.md",
-    "Lets Warm Up.md",
-    "nice netcat.md",
-    "What's A Net Cat.md",
-    "wave a flag.md",
-    "warmed up.md",
-    "Strings.md",
-    "Super SSH.md",
-    "Static Ain't Always Noise.md",
-    "obendient cat.md",
-    "repetitions.md",
-    "First Grep.md",
-    "Bases.md",
-    "2Warm.md",
-    "Untitled 1.md",
-    "Glitch Cat.md",
-    "Commitment Issues.md",
-    "instalacionKali.pdf"
+    "Web parte uno/insp3ct0r.md",
+    "logon.md",
+    "where are the robots.md",
+    "picoCTF/ASCII NUMBERS.md",
+    "picoCTF/Big Zip.md",
+    "picoCTF/chrono.md",
+    "picoCTF/What's A Net Cat.md",
+    "picoCTF/warmed up.md",
+    "picoCTF/repetitions.md",
+    "picoCTF/Time Machine.md",
+    "picoCTF/Convertme.py.md",
+    "picoCTF/Codebook.md",
+    "picoCTF/Commitment Issues.md",
+    "picoCTF/Collaborative Development.md",
+    "picoCTF/Binhexa.md",
+    "picoCTF/2Warm.md",
+    "picoCTF/Plumbing.md",
+    "picoCTF/pw crack 3.md",
+    "picoCTF/Lets Warm Up.md",
+    "picoCTF/wave a flag.md",
+    "picoCTF/runme.py.md",
+    "picoCTF/First Grep.md",
+    "picoCTF/PW Crack 2.md",
+    "picoCTF/Glitch Cat.md",
+    "picoCTF/Magikarp ground mission.md",
+    "picoCTF/First Find.md",
+    "Web parte uno",
+    "picoCTF",
+    "picoCTF/instalacionKali.pdf"
   ]
 }
