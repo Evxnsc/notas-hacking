@@ -157,14 +157,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/Scavenger Hunt.md",
+                "file": "Web picoCTF/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfb87c23985ecef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web picoCTF/MatchTheRegex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e58d6dde7120d4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web picoCTF/SOAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f465aeec0dcf7829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web picoCTF/Trickster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbdcd9886f20b6f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web picoCTF/Most Cookies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -230,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web picoCTF/Scavenger Hunt.md",
+                "file": "Web picoCTF/Most Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web picoCTF/Scavenger Hunt.md",
+                "file": "Web picoCTF/Most Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web picoCTF/Scavenger Hunt.md"
+                "file": "Web picoCTF/Most Cookies.md"
               }
             }
           }
@@ -294,17 +342,21 @@
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
     "Web picoCTF/Plantilla.md",
+    "Web picoCTF/Most Cookies.md",
+    "Web picoCTF/Trickster.md",
+    "Web picoCTF/where are the robots.md",
+    "Web picoCTF/SOAP.md",
+    "Web picoCTF/MatchTheRegex.md",
+    "Web picoCTF/insp3ct0r.md",
     "Web picoCTF/Scavenger Hunt.md",
     "Web picoCTF/GET aHEAD.md",
     "Web picoCTF/Cookies.md",
-    "Web picoCTF/insp3ct0r.md",
     "Web picoCTF/JaWT Scratchpad.md",
     "Web picoCTF/Irish-Name-Repo 3.md",
     "Web picoCTF/Irish-Name-Repo 2.md",
     "Web picoCTF/Irish-Name-Repo 1.md",
     "Web picoCTF/Client-side-again.md",
     "Web picoCTF/dont-use-client-side.md",
-    "Web picoCTF/where are the robots.md",
     "Web picoCTF/picobrowser.md",
     "Web picoCTF/logon.md",
     "picoCTF/ASCII NUMBERS.md",
@@ -315,10 +367,6 @@
     "picoCTF/repetitions.md",
     "picoCTF/Time Machine.md",
     "picoCTF/Convertme.py.md",
-    "picoCTF/Codebook.md",
-    "picoCTF/Commitment Issues.md",
-    "picoCTF/Collaborative Development.md",
-    "picoCTF/Binhexa.md",
     "Web picoCTF",
     "picoCTF",
     "picoCTF/instalacionKali.pdf"
