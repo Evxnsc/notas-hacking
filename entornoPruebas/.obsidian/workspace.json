@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/Plantilla.md",
+                "file": "Forensic/Plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,9 +210,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "278e5c1a10054307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2a38edcee923e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/So Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "970298c4a4b08272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e84ff7c35f8957d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/moonwalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e29db0d29222ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/WhitePages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cc1b2792eb79649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/C0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ae3652f056047b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/like1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc76241e39d3275f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -278,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web picoCTF/Most Cookies.md",
+                "file": "Forensic/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web picoCTF/Most Cookies.md",
+                "file": "Forensic/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web picoCTF/Most Cookies.md"
+                "file": "Forensic/shark on wire 2.md"
               }
             }
           }
@@ -341,13 +437,22 @@
   },
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
-    "Web picoCTF/Plantilla.md",
+    "Forensic/Plantilla.md",
+    "Forensic/moonwalk.md",
+    "Forensic/shark on wire 2.md",
+    "Forensic/like1000.md",
+    "Forensic/C0rrupt.md",
+    "Web picoCTF/insp3ct0r.md",
+    "Forensic/shark on wire 1.md",
+    "Forensic/WhitePages.md",
+    "Forensic/So Meta.md",
+    "Forensic/Glory of the Garden.md",
+    "Forensic",
     "Web picoCTF/Most Cookies.md",
     "Web picoCTF/Trickster.md",
     "Web picoCTF/where are the robots.md",
     "Web picoCTF/SOAP.md",
     "Web picoCTF/MatchTheRegex.md",
-    "Web picoCTF/insp3ct0r.md",
     "Web picoCTF/Scavenger Hunt.md",
     "Web picoCTF/GET aHEAD.md",
     "Web picoCTF/Cookies.md",
@@ -359,14 +464,6 @@
     "Web picoCTF/dont-use-client-side.md",
     "Web picoCTF/picobrowser.md",
     "Web picoCTF/logon.md",
-    "picoCTF/ASCII NUMBERS.md",
-    "picoCTF/Big Zip.md",
-    "picoCTF/chrono.md",
-    "picoCTF/What's A Net Cat.md",
-    "picoCTF/warmed up.md",
-    "picoCTF/repetitions.md",
-    "picoCTF/Time Machine.md",
-    "picoCTF/Convertme.py.md",
     "Web picoCTF",
     "picoCTF",
     "picoCTF/instalacionKali.pdf"
