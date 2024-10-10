@@ -306,9 +306,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bb5a992d40586a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/webNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4747d3a34ff973b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c009ccc55feb7846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0399fdf526ddeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/tunn3l v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a217fcb31084811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -374,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/shark on wire 2.md",
+                "file": "Forensic/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/shark on wire 2.md",
+                "file": "Forensic/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +474,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/shark on wire 2.md"
+                "file": "Forensic/MacroHard WeakEdge.md"
               }
             }
           }
@@ -438,11 +498,16 @@
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
     "Forensic/Plantilla.md",
+    "Forensic/MacroHard WeakEdge.md",
+    "Forensic/tunn3l v1s10n.md",
+    "Forensic/Matryoshka doll.md",
+    "Forensic/WebNet1.md",
+    "Forensic/webNet0.md",
+    "Web picoCTF/insp3ct0r.md",
     "Forensic/moonwalk.md",
     "Forensic/shark on wire 2.md",
     "Forensic/like1000.md",
     "Forensic/C0rrupt.md",
-    "Web picoCTF/insp3ct0r.md",
     "Forensic/shark on wire 1.md",
     "Forensic/WhitePages.md",
     "Forensic/So Meta.md",
@@ -459,11 +524,6 @@
     "Web picoCTF/JaWT Scratchpad.md",
     "Web picoCTF/Irish-Name-Repo 3.md",
     "Web picoCTF/Irish-Name-Repo 2.md",
-    "Web picoCTF/Irish-Name-Repo 1.md",
-    "Web picoCTF/Client-side-again.md",
-    "Web picoCTF/dont-use-client-side.md",
-    "Web picoCTF/picobrowser.md",
-    "Web picoCTF/logon.md",
     "Web picoCTF",
     "picoCTF",
     "picoCTF/instalacionKali.pdf"
