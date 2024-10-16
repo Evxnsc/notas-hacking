@@ -32,343 +32,67 @@
             }
           },
           {
-            "id": "a3f0b900f05ee08d",
+            "id": "c14713ec1f2ee610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/where are the robots.md",
+                "file": "Forensic/Milkslap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d73ec80e7d67cb0",
+            "id": "adf6e38247335ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/dont-use-client-side.md",
+                "file": "Forensic/Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "331144e20d29fa0f",
+            "id": "d5498a6fd5d956fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/Client-side-again.md",
+                "file": "Forensic/Sleuthkit Apprentice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1cd3ce13632c845",
+            "id": "9f8c91b7e7f6c1b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/picobrowser.md",
+                "file": "Forensic/Operation Orchid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2d1db435de1021f",
+            "id": "3cbaedc7f0b37964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web picoCTF/Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9bc114a826178df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/Irish-Name-Repo 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c0eb5aa83c613f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/Irish-Name-Repo 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a77af4775264dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd4e962670334d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e095e38b674b09a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18a7bcc35edfd03f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb87c23985ecef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/MatchTheRegex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e58d6dde7120d4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/SOAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f465aeec0dcf7829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/Trickster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbdcd9886f20b6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web picoCTF/Most Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "278e5c1a10054307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e2a38edcee923e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/So Meta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "970298c4a4b08272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e84ff7c35f8957d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/moonwalk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e29db0d29222ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/WhitePages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cc1b2792eb79649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/C0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae3652f056047b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/like1000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc76241e39d3275f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bb5a992d40586a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/webNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4747d3a34ff973b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/WebNet1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c009ccc55feb7846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Matryoshka doll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca0399fdf526ddeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/tunn3l v1s10n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a217fcb31084811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/MacroHard WeakEdge.md",
+                "file": "Forensic/Operation Oni.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -434,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/MacroHard WeakEdge.md",
+                "file": "Forensic/Operation Orchid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/MacroHard WeakEdge.md",
+                "file": "Forensic/Operation Orchid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -474,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/MacroHard WeakEdge.md"
+                "file": "Forensic/Operation Orchid.md"
               }
             }
           }
@@ -498,32 +222,32 @@
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
     "Forensic/Plantilla.md",
+    "Forensic/Operation Orchid.md",
+    "Forensic/Sleuthkit Apprentice.md",
+    "Forensic/Disk, disk, sleuth!.md",
+    "Forensic/Milkslap.md",
+    "Web picoCTF/where are the robots.md",
     "Forensic/MacroHard WeakEdge.md",
-    "Forensic/tunn3l v1s10n.md",
     "Forensic/Matryoshka doll.md",
-    "Forensic/WebNet1.md",
     "Forensic/webNet0.md",
-    "Web picoCTF/insp3ct0r.md",
-    "Forensic/moonwalk.md",
-    "Forensic/shark on wire 2.md",
     "Forensic/like1000.md",
-    "Forensic/C0rrupt.md",
-    "Forensic/shark on wire 1.md",
     "Forensic/WhitePages.md",
     "Forensic/So Meta.md",
-    "Forensic/Glory of the Garden.md",
-    "Forensic",
     "Web picoCTF/Most Cookies.md",
     "Web picoCTF/Trickster.md",
-    "Web picoCTF/where are the robots.md",
     "Web picoCTF/SOAP.md",
-    "Web picoCTF/MatchTheRegex.md",
-    "Web picoCTF/Scavenger Hunt.md",
-    "Web picoCTF/GET aHEAD.md",
     "Web picoCTF/Cookies.md",
-    "Web picoCTF/JaWT Scratchpad.md",
     "Web picoCTF/Irish-Name-Repo 3.md",
-    "Web picoCTF/Irish-Name-Repo 2.md",
+    "Web picoCTF/Irish-Name-Repo 1.md",
+    "Forensic/Operation Oni.md",
+    "Forensic/Sleuthkit Intro.md",
+    "Web picoCTF/insp3ct0r.md",
+    "Forensic/tunn3l v1s10n.md",
+    "Forensic/WebNet1.md",
+    "Forensic/moonwalk.md",
+    "Forensic/shark on wire 2.md",
+    "Forensic/C0rrupt.md",
+    "Forensic",
     "Web picoCTF",
     "picoCTF",
     "picoCTF/instalacionKali.pdf"
