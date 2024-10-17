@@ -90,9 +90,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6670579835b5ff14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/The Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7be63967814e590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "310ded2306e9e2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd61eb0d10c9f33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Caesar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48532c9908185c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/La cifra de.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a14ac26a4629b8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Tapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b14f5435fd1e0e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/waves over lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -158,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/Operation Orchid.md",
+                "file": "Crypto/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/Operation Orchid.md",
+                "file": "Crypto/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/Operation Orchid.md"
+                "file": "Crypto/waves over lambda.md"
               }
             }
           }
@@ -221,7 +305,16 @@
   },
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
-    "Forensic/Plantilla.md",
+    "Crypto/Plantilla.md",
+    "Crypto/waves over lambda.md",
+    "Crypto/Tapping.md",
+    "Crypto/La cifra de.md",
+    "Crypto/The Numbers.md",
+    "Crypto/Easy1.md",
+    "Crypto/Caesar.md",
+    "Crypto/13.md",
+    "Web picoCTF/insp3ct0r.md",
+    "Crypto",
     "Forensic/Operation Orchid.md",
     "Forensic/Sleuthkit Apprentice.md",
     "Forensic/Disk, disk, sleuth!.md",
@@ -239,14 +332,6 @@
     "Web picoCTF/Cookies.md",
     "Web picoCTF/Irish-Name-Repo 3.md",
     "Web picoCTF/Irish-Name-Repo 1.md",
-    "Forensic/Operation Oni.md",
-    "Forensic/Sleuthkit Intro.md",
-    "Web picoCTF/insp3ct0r.md",
-    "Forensic/tunn3l v1s10n.md",
-    "Forensic/WebNet1.md",
-    "Forensic/moonwalk.md",
-    "Forensic/shark on wire 2.md",
-    "Forensic/C0rrupt.md",
     "Forensic",
     "Web picoCTF",
     "picoCTF",
