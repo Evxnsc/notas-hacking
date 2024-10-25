@@ -48,9 +48,79 @@
               "icon": "lucide-file",
               "title": "miniRSA"
             }
+          },
+          {
+            "id": "d216c561336b4531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Pixelated.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pixelated"
+            }
+          },
+          {
+            "id": "e67b66f88e773b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Mind your Ps and Qs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind your Ps and Qs"
+            }
+          },
+          {
+            "id": "f27f34943a64f355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/basic-mod1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "basic-mod1"
+            }
+          },
+          {
+            "id": "d7958cc7d0f05317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/HideToSee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HideToSee"
+            }
+          },
+          {
+            "id": "5e44ad243ef363b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/readMyCert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readMyCert"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "540249ad80ffca2c",
@@ -194,6 +264,11 @@
   "active": "38e8a5c3fab76c99",
   "lastOpenFiles": [
     "Crypto/Plantilla.md",
+    "Crypto/readMyCert.md",
+    "Crypto/HideToSee.md",
+    "Crypto/basic-mod1.md",
+    "Crypto/Mind your Ps and Qs.md",
+    "Crypto/Pixelated.md",
     "Crypto/b00tl3gRSA2.md",
     "Web picoCTF/insp3ct0r.md",
     "Crypto/Tapping.md",
@@ -215,11 +290,6 @@
     "Forensic/Matryoshka doll.md",
     "Forensic/webNet0.md",
     "Forensic/like1000.md",
-    "Forensic/WhitePages.md",
-    "Forensic/So Meta.md",
-    "Web picoCTF/Most Cookies.md",
-    "Web picoCTF/Trickster.md",
-    "Web picoCTF/SOAP.md",
     "Forensic",
     "Web picoCTF",
     "picoCTF",
